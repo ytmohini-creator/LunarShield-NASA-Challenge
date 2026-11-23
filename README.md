@@ -43,5 +43,7 @@ This is an independent student concept proposal. It is not an official NASA desi
 
 LunarShield explores safe removal of static charge from space suits before entering the lander
 
+LunarShield is a student concept exploring safe removal of static charge from spacesuits before entering a lunar lander
+
 CAUTION!!
 Concept only, not a tested device. No hardware testing planned
