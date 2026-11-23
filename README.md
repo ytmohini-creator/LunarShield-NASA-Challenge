@@ -40,3 +40,8 @@ Initial concept development. No hardware prototype or validated safety performan
 6. Disclaimer
 
 This is an independent student concept proposal. It is not an official NASA design or endorsement.
+
+LunarShield explores safe removal of static charge from space suits before entering the lander
+
+CAUTION!!
+Concept only, not a tested device. No hardware testing planned
