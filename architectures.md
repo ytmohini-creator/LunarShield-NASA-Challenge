@@ -72,3 +72,61 @@ No storage technology, electrical circuit, or safety performance has been valida
 
 Further scientific research and engineering analysis are required before determining whether this architecture is feasible.
   
+Architecture B — Lunar Environment Charge Transfer
+
+B.1 Concept Overview
+
+This architecture investigates whether electrostatic charge accumulated on an astronaut's spacesuit can be transferred to the surrounding lunar environment through a controlled charge-management device.
+
+The concept explores interactions between the charged spacesuit, lunar surface materials, and the surrounding plasma environment.
+
+B.2 Proposed Operating Sequence
+
+1. The astronaut carries the LunarShield device.
+2. Before entering the lunar lander, the device connects to a designated suit interface.
+3. The system measures the electrical condition of the spacesuit.
+4. A controlled charge-transfer mechanism is investigated.
+5. The device interacts with a suitable environmental charge-transfer path.
+6. The system monitors the process and detects unsafe conditions.
+7. The astronaut proceeds only after the system indicates a safe condition.
+
+B.3 Main Components to Investigate
+
+- Handheld or suit-mounted device.
+- Protected suit electrical interface.
+- Charge-monitoring system.
+- Environmental charge-transfer mechanism.
+- Electrical isolation and protection.
+- Fault detection and status indication.
+
+These are conceptual functions, not finalized hardware components.
+
+B.4 Potential Advantages
+
+- Could reduce dependence on a permanent electrical connection to the lander.
+- May offer a portable charge-management approach.
+- Could investigate the lunar plasma environment as part of the solution.
+
+B.5 Technical Challenges
+
+- Lunar regolith is not automatically a reliable electrical ground.
+- The lunar plasma environment varies with location and conditions.
+- Charge transfer must not create dangerous electrical arcing.
+- The device must avoid exposing the astronaut to harmful electrical conditions.
+- The mechanism must operate in lunar vacuum, dust, and extreme temperatures.
+
+B.6 Research Questions
+
+1. How does the lunar plasma environment interact with a negatively charged spacesuit?
+2. Can charge be transferred safely between a spacesuit and the surrounding plasma?
+3. What environmental conditions affect this process?
+4. Can the transfer be controlled and monitored?
+5. Could this approach satisfy NASA's discharge-current and timing requirements?
+
+B.7 Development Status
+
+Status: Early research concept.
+
+The feasibility of transferring charge into the lunar environment has not been demonstrated for this proposed device. Scientific research and engineering validation are required.
+
+No claim of safe or successful charge removal is currently made.
