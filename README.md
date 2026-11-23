@@ -41,9 +41,44 @@ Initial concept development. No hardware prototype or validated safety performan
 
 This is an independent student concept proposal. It is not an official NASA design or endorsement.
 
+7.lunarShield v1
+
 LunarShield explores safe removal of static charge from space suits before entering the lander
 
 LunarShield is a student concept exploring safe removal of static charge from spacesuits before entering a lunar lander
+
+9. Project Purpose, Scope and Limitations
+
+9.1 Purpose
+
+The purpose of LunarShield is to explore a safe and controlled method of removing electrostatic charge from astronaut spacesuits before entering a lunar lander.
+
+9.2 Project Scope
+
+This project will investigate:
+
+- How static electrical charge builds up on lunar spacesuits.
+- Different methods of detecting electrical charge.
+- Controlled charge-transfer technologies.
+- Lunar environment charge-management possibilities.
+- Lander-based electrical discharge systems.
+- Temporary electrical energy storage.
+- Astronaut safety and system reliability.
+
+9.3 Project Limitations
+
+This project is currently a theoretical engineering concept.
+
+- No physical prototype is being claimed.
+- No human testing will be conducted.
+- No unverified electrical safety performance is claimed.
+- All proposed technologies require scientific research and engineering validation.
+- The design must consider the extreme conditions of the lunar environment.
+
+9.4 Primary Objective
+
+Develop a scientifically supported conceptual design that investigates safe electrostatic charge management for future lunar exploration missions.
+
 
 CAUTION!!
 Concept only, not a tested device. No hardware testing planned
